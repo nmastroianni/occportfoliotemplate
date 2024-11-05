@@ -26,13 +26,13 @@ import gallery3 from '../../public/images/gallery/gallery3.jpg'
  */
 export const sitemetadata: Sitemetadata = {
   domain: 'occeofportfolio.netlify.app',
-  title: 'Your Name',
+  title: 'James Pazik',
   firstName: 'George',
   lastName: 'Washington',
   description: "Replace with a description of you that's 145-160 characters.",
   footer: 'Your Name | All rights reserved',
   metaimage: metaimage,
-  lastUpdated: '7/2/2024',
+  lastUpdated: '11/5/2024',
 }
 /**
  * END SEO DATA
@@ -50,7 +50,7 @@ export const intro: Intro = {
   portrait: portrait,
   portraitAlt: 'Describe your profile picture',
   emoji: '👋',
-  description: `Hello <strong>I'm Ryan</strong>. I'm a graduate of Ocean County College. I enjoy <em>solving problems</em> and helping others with their goals.`,
+  description: `Hello <strong>I'm James</strong>. I'm a Student at Ocean County College. I enjoy <em>solving problems</em> and helping others with their goals.`,
   buttons: [
     {
       label: 'Download Resume',
