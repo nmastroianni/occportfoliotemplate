@@ -27,8 +27,8 @@ import gallery3 from '../../public/images/gallery/gallery3.jpg'
 export const sitemetadata: Sitemetadata = {
   domain: 'occeofportfolio.netlify.app',
   title: 'James Pazik',
-  firstName: 'George',
-  lastName: 'Washington',
+  firstName: 'James',
+  lastName: 'Pazik',
   description: "Replace with a description of you that's 145-160 characters.",
   footer: 'Your Name | All rights reserved',
   metaimage: metaimage,
